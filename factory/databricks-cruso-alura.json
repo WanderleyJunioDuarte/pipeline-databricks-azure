@@ -1,0 +1,9 @@
+{
+	"name": "databricks-cruso-alura",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b52f4b3-9411-42b1-9d6c-b801179d0a24",
+		"tenantId": "126b2b09-16f6-4aa1-960c-254ebdbacb83"
+	}
+}
