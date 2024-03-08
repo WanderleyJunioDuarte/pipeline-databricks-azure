@@ -14,7 +14,7 @@
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
-				"frequency": "Hour",
+				"frequency": "Minute",
 				"interval": 1,
 				"startTime": "2024-03-08T10:58:00",
 				"timeZone": "E. South America Standard Time"
